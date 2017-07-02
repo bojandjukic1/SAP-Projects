@@ -1,1 +1,1 @@
- # A folder for the coffee-machine part of the project
+#Code for the coffee machine stage

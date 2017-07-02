@@ -1,0 +1,6 @@
+yOrNo,question,optionA,optionB,optionC,optionD,optionE
+0,Welches Feature im Airstream hat Ihnen am besten gefallen?,Alexa,NetAtmo,55 Zoll-Tisch,Welcome-Screen,Digital Boardroom
+0,Wie war Ihr Gesamteindruck?,Sehr gut,Gut,Nichts besonderes,Schlecht,Sehr schlecht
+1,Hat die Kaffeebestellung mit Alexa funktioniert?,null,Ja,null,Nein,null
+0,Hat der Touchscreen vom TouchTable funktioniert?,Sehr gut,Gut,Nichts besonderes,Schlecht,Sehr schlecht
+1,Hat die RFID-Erkennung einwandfrei funktioniert?,null,Ja,null,Nein,null
